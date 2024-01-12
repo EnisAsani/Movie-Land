@@ -3,7 +3,7 @@ import MovieCard from "./MovieCard";
 import SearchIcon from "./search.svg";
 import "./App.css";
 
-const API_URL = 'http://www.omdbapi.com/?apikey=eef6c7cb';
+const API_URL = 'http://www.omdbapi.com/?apikey=eef6c7cb'
 
 const App = () => {
 
